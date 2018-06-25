@@ -1,5 +1,5 @@
 # qesha
-This Bot is for helping peopl automated their recruiting process, it answers Frequently Asked Questions from recruiters. 
+This Bot is for helping people automated their recruiting process, it answers Frequently Asked Questions from recruiters. 
 # usage
 Make sure you have Telegram App installed. Create a bot on your Telegram using botFather.
 Drop qesha.py in a VPS server and running the following.
